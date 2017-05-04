@@ -30,4 +30,4 @@
 @property (nonatomic,assign)RateStyle rateStyle;
 
 演示截图如下：
-![image](https://github.com/BelaW613/WQRatingBar/WQRatingBar/WQRatingBar/screenshots/screenshots.gif )
+![image](https://github.com/BelaW613/WQRatingBar/WQRatingBar/WQRatingBar/screenshots/screenshots.gif)
